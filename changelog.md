@@ -1,3 +1,4 @@
 - 【2024/11/25】Finish chapter_preliminaries\my-preliminaries.ipynb 
 - 【2024/11/26】Finish chapter_linear-networks\my-linear-regression.ipynb & my-linear-regression-scratch-2.ipynb & my-linear-regression-concise-4.py
 - 【2024/12/1】Add my-softmax-regression.ipynb, finish my-image-classification-dataset-2.ipynb
+- 【2024/12/3】Finish chapter_linear-networks(including my-softmax-regression-scratch-2.ipynb & my-softmax-regression-concise.ipynb)
