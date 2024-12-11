@@ -3,3 +3,4 @@
 - 【2024/12/1】**Add** my-softmax-regression.ipynb, **finish** my-image-classification-dataset-2.ipynb
 - 【2024/12/3】**Finish** chapter_linear-networks(including my-softmax-regression-scratch-2.ipynb & my-softmax-regression-concise.ipynb)
 -【2024/12/8】**add** myfunc.py, **change** my-softmax-regression-concise.ipynb, **finish** chapter_multilayer-perceptrons\my-mlp.ipynb & my-mlp-scratch.ipynb & my-mlp-concise.ipynb
+-【2024/12/10】 **Finish** chapter_multilayer-perceptrons\my-underfit-overfit.ipynb & my-underfit-overfit-hw3.ipynb & my-weight-decay.ipynb
