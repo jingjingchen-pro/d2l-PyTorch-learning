@@ -4,3 +4,4 @@
 - 【2024/12/3】**Finish** chapter_linear-networks(including my-softmax-regression-scratch-2.ipynb & my-softmax-regression-concise.ipynb)
 -【2024/12/8】**add** myfunc.py, **change** my-softmax-regression-concise.ipynb, **finish** chapter_multilayer-perceptrons\my-mlp.ipynb & my-mlp-scratch.ipynb & my-mlp-concise.ipynb
 -【2024/12/10】 **Finish** chapter_multilayer-perceptrons\my-underfit-overfit.ipynb & my-underfit-overfit-hw3.ipynb & my-weight-decay.ipynb
+-【2024/12/12】 **Finish** my-dropout.ipynb & my-numerical-stability-and-init.ipynb & my-kaggle-house-price.ipynb
