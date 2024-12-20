@@ -5,3 +5,4 @@
 -【2024/12/8】**add** myfunc.py, **change** my-softmax-regression-concise.ipynb, **finish** chapter_multilayer-perceptrons\my-mlp.ipynb & my-mlp-scratch.ipynb & my-mlp-concise.ipynb
 -【2024/12/10】 **Finish** chapter_multilayer-perceptrons\my-underfit-overfit.ipynb & my-underfit-overfit-hw3.ipynb & my-weight-decay.ipynb
 -【2024/12/12】 **Finish** my-dropout.ipynb & my-numerical-stability-and-init.ipynb & my-kaggle-house-price.ipynb
+-【2024/12/15、16、19】 **Finish** chapter_deep-learning-computation
