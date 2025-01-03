@@ -6,3 +6,4 @@
 - 【2024/12/10】 **Finish** chapter_multilayer-perceptrons\my-underfit-overfit.ipynb & my-underfit-overfit-hw3.ipynb & my-weight-decay.ipynb
 - 【2024/12/12】 **Finish** my-dropout.ipynb & my-numerical-stability-and-init.ipynb & my-kaggle-house-price.ipynb
 - 【2024/12/15、16、19】 **Finish** chapter_deep-learning-computation
+- 【2024/12/21-28】 **Finish** chapter_convolutional-neural-networks & chapter_convolutional-modern
