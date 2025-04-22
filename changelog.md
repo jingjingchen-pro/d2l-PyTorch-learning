@@ -7,4 +7,4 @@
 - 【2024/12/12】 **Finish** my-dropout.ipynb & my-numerical-stability-and-init.ipynb & my-kaggle-house-price.ipynb
 - 【2024/12/15、16、19】 **Finish** chapter_deep-learning-computation
 - 【2024/12/21-28】 **Finish** chapter_convolutional-neural-networks & chapter_convolutional-modern
-- 【2025/4/22】把之前没有提交的先提交（chap-cv & chap-rnn）
+- 【2025/4/22】把之前没有提交的先提交（chap-cv & chap-rnn）; change files name
