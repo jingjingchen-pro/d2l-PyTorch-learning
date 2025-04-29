@@ -1,3 +1,4 @@
 data/
 d2l.egg-info/
 d2l/__pycache__
+.DS_Store

@@ -422,13 +422,21 @@ DATA_HUB['kaggle_house_test'] = (
     DATA_URL + 'kaggle_house_pred_test.csv',
     'fa19780a7b011d9b009e8bff8e99922a8ee2eb90')
 
-def try_gpu(i=0):
-    """如果存在，则返回gpu(i)，否则返回cpu()
+# def try_gpu(i=0):
+#     """如果存在，则返回gpu(i)，否则返回cpu()
 
-    Defined in :numref:`sec_use_gpu`"""
-    if torch.cuda.device_count() >= i + 1:
+#     Defined in :numref:`sec_use_gpu`"""
+#     if torch.cuda.device_count() >= i + 1:
+#         return torch.device(f'cuda:{i}')
+#     return torch.device('cpu')
+def try_gpu(i=0):
+    """优先返回可用的 MPS 或 CUDA 设备，否则返回 CPU"""
+    if torch.backends.mps.is_available():
+        return torch.device("mps")
+    elif torch.cuda.device_count() >= i + 1:
         return torch.device(f'cuda:{i}')
-    return torch.device('cpu')
+    else:
+        return torch.device('cpu')
 
 def try_all_gpus():
     """返回所有可用的GPU，如果没有GPU，则返回[cpu(),]

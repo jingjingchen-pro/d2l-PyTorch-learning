@@ -6,7 +6,7 @@ requirements = [
     'numpy==1.21.5',
     'matplotlib==3.5.1',
     'requests==2.25.1',
-    'pandas==1.2.4'
+    'pandas==1.3.5'  # [250428]1.2.4 -> 1.3.5 because I use python3.10 in mac, in windows, 1.2.4 works fine
 ]
 
 setup(
